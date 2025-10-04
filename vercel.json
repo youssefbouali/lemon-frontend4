@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "http://greenertech.mywire.org:5005/api/:path*" }
+  ]
+}
